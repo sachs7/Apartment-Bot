@@ -10,4 +10,4 @@ To install:
 - Run `python main.py`
 
 The Slack Message is as shown:
-![Slack-Output](/sachs7/Apartment-Bot/blob/master/Slack_Message.png?raw=true "Slack-Message")
+![Slack-Output](https://github.com/sachs7/Apartment-Bot/blob/master/Slack_Message.png?raw=true "Slack-Message")
