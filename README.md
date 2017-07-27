@@ -8,3 +8,6 @@ To install:
 - Clone this repo.
 - Run `pip3 install -r requirements.txt`
 - Run `python main.py`
+
+The Slack Message is as shown:
+![Slack-Output](/sachs7/Apartment-Bot/blob/master/Slack_Message.png?raw=true "Slack-Message")
